@@ -10,7 +10,14 @@
 
 #### >> Starting with by finding ip addresss of target with `netdiscover`
 ```shell                                                                                                                                                                                                                   
-
+ Currently scanning: Finished!   |   Screen View: Unique Hosts                                                                                                                                                             
+ 3 Captured ARP Req/Rep packets, from 6 hosts.   Total size: 14520
+_____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+-----------------------------------------------------------------------------
+ 192.168.0.1     34:0a:33:79:d5:fe    211   12660  D-Link International                                                                                                                                                                     
+ 192.168.0.133   28:39:26:3a:31:3f      1      60  CyberTAN Technology Inc.                                                                                                                                                                 
+ 192.168.0.140   08:00:27:53:d9:c1      1      60  PCS Systemtechnik GmbH
 ```
 - Our Target ip is 192.168.0.140
 
